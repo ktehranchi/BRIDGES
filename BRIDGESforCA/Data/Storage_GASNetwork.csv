@@ -1,0 +1,6 @@
+Node_ELEC,Node_GAS,Storage_ID,Prime Mover,Existing Units [no.],Unit Size [MW],Max New Units Annual [units/year],Max New Units Total [no.],Duration [hours],Charge efficiency [%],Discharge efficiency [%],Loss efficiency [%],Economic Lifetime [years],Lifetime [years],Install Year,Forced Retirement,MoleFrac_CH4 [%],MoleFrac_H2 [%]
+6,6,1,Underground gas storage,1,791,0,0,8760,0.96,0.995,1.14E-08,40,40,2050,2050,1,0
+9,9,2,Underground gas storage,1,3747,0,0,8760,0.96,0.995,1.14E-08,40,40,2050,2050,1,0
+11,11,3,Underground gas storage,1,2847,0,0,8760,0.96,0.995,1.14E-08,40,40,2050,2050,1,0
+12,12,4,Underground gas storage,1,4147,0,0,8760,0.96,0.995,1.14E-08,40,40,2050,2050,1,0
+13,13,5,Underground gas storage,1,662,0,0,8760,0.96,0.995,1.14E-08,40,40,2050,2050,1,0
