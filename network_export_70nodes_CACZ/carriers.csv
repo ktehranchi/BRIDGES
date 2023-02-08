@@ -1,0 +1,10 @@
+name,co2_emissions
+solar,0.0
+offwind,0.0
+hydro,0.0
+wind,0.0
+coal,0.34
+geothermal,0.03
+ng,0.2
+nuclear,0.0
+oil,0.27
